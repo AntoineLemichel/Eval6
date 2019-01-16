@@ -4,7 +4,7 @@
   <div class="container-loading" id="loader">
 
   </div>
-  <div class="search-bar displayElement">
+  <div class="search-bar displayElement" >
     <form action="" method="post">
       <input type="text" placeholder="Recherchez" required>
       <input type="submit" value="Recherche">
